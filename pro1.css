@@ -4,7 +4,9 @@
 #view a{
   color: #ffffff;
 }
-
+a{
+  color: #ffffff;
+}
  #COPY{
   font-family: 'Sawarabi Mincho', serif;
   font-size: 15px;
@@ -153,14 +155,20 @@ h1{
     text-transform: capitalize;
     /* color: #e8a567; */
     color:#ffffff ;
-    font-family: cursive;
-    font-style: oblique; 
+    font-family: 'Sawarabi Mincho', serif;
+    /* font-style: oblique;  */
     margin: 0px;
-    font-size: 6vb;
-    padding:0 0 0 10px;
+    font-size: 3vw;
+    /* padding:0 0 0 10px; */
+    font-weight: lighter;
     user-select: none;
 }
- 
+.parttext{
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
 body::-webkit-scrollbar{
   display: none;
 }
@@ -174,7 +182,8 @@ body{
 }
  
 nav ul li ,ul li   {
-    font-family: cursive;
+  font-family: 'Sawarabi Mincho', serif;
+  /* font-weight: lighter; */
     list-style: none;
     display:inline-flex;
     list-style: none;
@@ -184,7 +193,7 @@ nav ul li ,ul li   {
     user-select: none;
 }
 nav ul li a  {
-    font-size: 15px;
+    font-size: 13px;
     padding: 6px 15px;
     font-weight: bolder;
     text-decoration: none;
@@ -257,12 +266,8 @@ nav{
     position: fixed;
   }
   @media screen and (max-width: 900px) {
-    body {
-      background-color: white;
-       
-      display:none;
-       
-    }} 
+
+    } 
   .back{
       /* transform: translateZ(-10px) scale(1);  */
      display:flex; 
