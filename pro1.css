@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Noto+Serif+Telugu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
-#view a{
+#view{
   color: #ffffff;
+  font-weight: lighter;
+  font-family: 'Sawarabi Mincho', serif;
+  font-size: 1.5rem;
 }
 a{
   color: #ffffff;
@@ -13,13 +16,13 @@ a{
  }
 #story{
   font-family: 'Sawarabi Mincho', serif;
-  font-size: 7vb;
+  font-size: 3rem;
   font-weight: lighter;
  }
- .storiess,#view{
+ .storiess {
   font-weight: lighter;
   font-family: 'Sawarabi Mincho', serif;
-  font-size: 3vb;
+  font-size: 2rem;
   display:inline-block;
  }
 .container {
@@ -82,12 +85,17 @@ html{
 .show{
   opacity: 1;
   filter: blur(0px);
-  transform: translateX(0);
+  /* transform: translateX(0); */
 }
  .homeimg{
   display:flex;
   justify-content: space-around;
   align-items: center;
+}
+@media only screen and (max-width: 1200px) {
+   .homeimg {
+    display: none;
+  }
 }
 .image{
   
@@ -153,9 +161,10 @@ h1{
 }
 #greet,#greets,h2{
     text-transform: capitalize;
+    /* color: #e8a567; */
     color:#ffffff ;
     font-family: 'Sawarabi Mincho', serif;
-    /* font-style: oblique;  */
+    font-style: oblique; 
     margin: 0px;
     font-size: 3vw;
     padding:0 0 0 10px;
