@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+        body{
+            text-align: center;
+            justify-content: center;
+            font-family: 'Sawarabi Mincho', serif;
+        }
+        .LEFT{
+            text-align: left;
+        }
+        body::-webkit-scrollbar{
+  display: none;
+}   
+#pro{
+    transform: rotate(-90deg);
+    padding: 0;
+    margin: 0%;
+}
+ul li   {
+  font-family: 'Sawarabi Mincho', serif;
+  /* font-weight: lighter; */
+    list-style: none;
+    display:inline-flex;
+    list-style: none;
+    margin-left:15px;
+    text-transform: uppercase;
+    justify-content: center;
+    user-select: none;
+}
+    </style>
+</head>
+<body>
+     <h1>DOCUMENTATION</h1>
+     <H3>SPACES BY SANTHOSH</H3>
+     <HR>
+        <H2>RELEASE 1</H2>
+        <H4 class="LEFT">WELCOME  DEVELOPER,</H4>
+        <h2 id="left">WHAT IS SPACES?</h2>
+
+        <H4>
+            
+
+            SPACES IS A SPACE TO SHOWCASE YOUR SKILL.<BR>
+            WE ARE ON A MISSION TO FREE AND OPEN PHOTO SHARING COMMUNITY
+            <BR>AUTHOR : SANTHOSH<BR>
+                THEME : SPACE<BR>
+                    COLOR PALETTES : BLUE<BR>
+                <A HREF="https://rahul-9429.github.io/SPACES/">SPACES LINK</A>
+        </H4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1oZxP2xFdHI?si=mQwRFqPYOo10Cxqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <H2>
+            TECH-STACK
+        </H2>
+        <H4> 
+            HTML<BR> CSS <BR>JAVASCRIPT<BR> 
+                LEVEL : BEGINNER TO INTERMEDIATE
+        </H4>
+        <h2>
+           BLOG
+        </h2>
+        <H4>RESPONSIVE IMAGE GALLERY <BR>
+        ITS EASY BUT AS NEWBIE ITS HARD FOR ME. <BR>I PERSONALLY SPENT A LOT OF TIME ON THIS PROJECT BUT I WORTH IT CUZ I DID NEW A LOTT..!
+        <BR> AND GOT SOME HANDS ON EXPERINCE
+            <BR>  <BR><A HREF="https://forms.gle/GQTuoSG1RiE1HGpC8">LET US KNOW WHAT YOU THINK</A>
+        </H4>
+        <H2>MEET OUR PRE-TESTERS</H2>
+        <H4>HIMA <SUP>
+            <a href="https://www.linkedin.com/in/himavarshini-mahapatruni-285121269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+            <img width="25" height="25" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/></a></span>
+            </SUP> && PAVAN <SUP>
+             <span id="abc"><a href="https://www.linkedin.com/in/pavan-kumar-686279165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                <img width="25" height="25" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/></a></span>
+            </SUP></H4>
+        <video width="140" height="250" autoplay ID="pro">
+                <source src="PRO1.mp4" type="video/mp4">
+                <source src="PRO1.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+              </video>
+
+              <H2>GET IN TOUCH</H2>
+              <ul>
+            
+                <li>
+                <a href="mailto:rahulkasimikota@gmail.com?">
+                <img width="35" height="35" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a></li></span>
+               <li> <span id="abc"><a href="https://www.linkedin.com/in/kasimikota-santhosh-rahul-45ab20226">
+                <img width="35" height="35" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/></a></span></li>
+              <li>  <span id="abc">  <a href="https://api.whatsapp.com/send/?phone=919494091450&text&type=phone_number&app_absent=0">
+                <img width="33" height="33" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a></span></li>
+               <li> <span id="abc"> <a href="https://www.snapchat.com/add/rahul.mama?share_id=IjgMJ-A7y0Q&locale=en-IN ">
+                <img width="35" height="35" src="https://img.icons8.com/doodle/48/snapchat.png" alt="snapchat"/></a></span></li>
+               <li> <span id="abc"> <a href="https://github.com/rahul-9429">
+                <img width="37" height="37" src="https://img.icons8.com/doodle/48/github--v1.png" alt="github--v1"/></a></span></li>
+                <li><img width="42" height="42" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></li>
+            </span></ul>
+</body>
+</html>
