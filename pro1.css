@@ -1,18 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Noto+Serif+Telugu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
- #view{
-  justify-content: center;
-  align-items: center;
+#view a{
   color: #ffffff;
-  font-size: 5vb;
-  font-weight: bold;
-  font-family: 'Caveat', cursivet;
- }
- #view a,a{
-  color: #ffffff;
-  /* text-decoration: none; */
- }
+}
+
  #COPY{
   font-family: 'Sawarabi Mincho', serif;
   font-size: 15px;
@@ -22,7 +14,9 @@
   font-size: 7vb;
   font-weight: lighter;
  }
- .storiess{
+ .storiess,#view{
+  font-weight: lighter;
+  font-family: 'Sawarabi Mincho', serif;
   font-size: 3vb;
   display:inline-block;
  }
