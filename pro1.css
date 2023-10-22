@@ -159,28 +159,16 @@ h1{
     font-size: 50px;
     padding:0 0 0 10px;
 }
-#greet,h2{
+#greet,#greets,h2{
     text-transform: capitalize;
     /* color: #e8a567; */
     color:#ffffff ;
-    font-family: 'Sawarabi Mincho', serif;
-    font-style: oblique; 
+    font-family: 'Caveat', cursivet;
+    /* font-style: oblique;  */
     margin: 0px;
     font-size: 3vw;
     padding:0 0 0 10px;
-    font-weight: lighter;
-    user-select: none;
-}
-#greets{
-  text-transform: capitalize;
-    /* color: #e8a567; */
-    color:#ffffff ;
-    font-family: 'Sawarabi Mincho', serif;
-    font-style: oblique; 
-    margin: 0px;
-    font-size: 2.5vw;
-    padding:0 0 0 10px;
-    font-weight: lighter;
+  
     user-select: none;
 }
 .parttext{
