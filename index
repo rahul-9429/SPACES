@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPACES</title>
+    <link rel="stylesheet" type="text/css" href="pro1.css">
+</head>
+<body>  
+     
+    <nav id="home">
+     <h2 id="greet"></h2> 
+    <ul> 
+       <li ><div class="underbar"><a href="#home">home</a></div></li>
+       <li ><div class="underbar"><a href="#about">about</a></div></li>
+       <li ><div class="underbar"><a href="#gallery">gallery</a></div></li>
+       <li ><div class="underbar"><a href="#contribute">contribute</a></div></li>
+       <li ><div class="underbar"><a href="#contact" >contact</a></div></li>
+    </ul></nav> 
+     <h2 id="greets"></h2>   <div class="parttext"> 
+<section  class="hidden">
+    <div class="wrapper">
+    <div class="hero">
+        <center>  <div class="test">
+            <div class="back" id="hidden">
+            <p id="mainname" class="maintx">hey, i'am</p>
+          <span class="santhosh" id="santhosh" >santhosh </span> 
+           </div> </div>
+           <div class="front"><br> <br><br><br><br><br> <br><br><br><br><br> <img src="multiwaves3.png" class="z"></div>
+        </center> 
+</section> 
+<br> <br><br><br><br><br> <br><br><br><br><br>  
+
+  <div class="secmain">
+
+<section id="about" class="hidden">
+   
+    <h1>about</h1>
+    <br><br><br> 
+<div class="abt"><p>Welcome to my space ! <br>I'm  santhosh, a dedicated coder with a profound passion
+     for both technology👨🏻‍💻 and the art of photography📸.<br> 
+    This website is a unique perspective to blend my technical skill with artstic vision, 
+    creating a space where technology and photography meet.<br> Join me as I showcase the fusion 
+    passions✨and
+     invites you to explore the stories behind every frame that's captured👀✨.</p></div>
+     <br><br><br><br><br> 
+</section>
+<h1>gallery</h1> <br><br>
+     
+        
+     <section id="gallery" class="hidden">
+    <h1 ID="story" class="hiddenn">STORIES <br>
+        <SPAN class="storiess">THAT YOU CAN FEEL & INSPIRE</SPAN> </h1>  <br>
+
+        <div class="homeimg">
+            <div class="logo hiddenn">
+                <img class="image"id="photos" src="16.jpg"alt="a shot by santhosh" height="120px">
+            </div>
+            <div class="logo hiddenn">
+                <img class="image"id="photos" src="22.jpg"alt="a shot by santhosh" height="90px">
+            </div>
+            <div class="logo hiddenn">
+                <img class="image"id="photos" src="23.jpg"alt="a shot by santhosh" height="120px">
+            </div>
+            <div class="logo hiddenn">
+                <img class="image"id="photos" src="29.jpg"alt="a shot by santhosh" height="90px">
+            </div>
+            <div class="logo hiddenn">
+                <img class="image"id="photos" src="20.jpg"alt="a shot by santhosh" height="120px">
+            </div>
+        </div>
+  <center> 
+    <br>
+     <span id="view"><a href="collection.html" target="_blank">>>View Spaces<<</a></span></center>  
+     
+     <br><br><br><br>
+     <div class="container">
+        <p>photography is<span class="typed-text" id=" "></span><span class="cursor">&nbsp;</span></p>
+      </div>
+</div>
+</section>
+<section id="contribute" class="hidden">
+    <h1>contribute</h1>
+    <br><br><br>  
+    <div class="contr"><p>Are you ready to showcase your love for the great outdoors or indoors?🍃📷 <br>I'am on a mission to curate a gallery that captures the essence of nature's wonders, and we want you to be a part of it!<br>
+        Send us your amazing clicks and see them published here..!<br>Your creativity holds the power to inspire change and showcase your skill.<br> 
+       <b><b> <i>#be_the_change😎</i></b> </b> <br><a href="mailto:rahulkasimikota@gmail.com?&subject=PHOTO%20CONTRIBUTION&body=Heyy%20Santhosh%20here%20is%20my%20contribution%20towards%20your%20collection."><small><small><i><b><p>Click to Contribute</p></i></b></small></small></a><br>
+    </p>
+     </div>
+     <br> 
+    </section>
+<section id="contact" class="hidden">
+    <h1>get in touch</h1><div class="cont">  <center>
+            <div class="contt">
+       
+    <span id="abc">
+        <ul>
+            
+            <li>
+            <a href="mailto:rahulkasimikota@gmail.com?">
+            <img width="35" height="35" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a></li></span>
+           <li> <span id="abc"><a href="https://www.linkedin.com/in/kasimikota-santhosh-rahul-45ab20226">
+            <img width="35" height="35" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/></a></span></li>
+          <li>  <span id="abc">  <a href="https://api.whatsapp.com/send/?phone=919494091450&text&type=phone_number&app_absent=0">
+            <img width="33" height="33" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a></span></li>
+           <li> <span id="abc"> <a href="https://www.snapchat.com/add/rahul.mama?share_id=IjgMJ-A7y0Q&locale=en-IN ">
+            <img width="35" height="35" src="https://img.icons8.com/doodle/48/snapchat.png" alt="snapchat"/></a></span></li>
+           <li> <span id="abc"> <a href="https://github.com/rahul-9429">
+            <img width="37" height="37" src="https://img.icons8.com/doodle/48/github--v1.png" alt="github--v1"/></a></span></li>
+            <li><img width="42" height="42" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></li>
+        </span></ul> </div>
+        
+        <p><a href="https://forms.gle/GQTuoSG1RiE1HGpC8" target="_blank">Rate Uss..!</a></p>
+        <p><a href="documentation.html" target="_blank">Documentation</a></p>
+        <p><a href="" target="_blank">Source Code</a></p>
+        <br><P>
+        Copyrights reserved
+        </P>
+        <br>
+       <p ID="COPY"> MADE WITH LOVE , INDIA.
+       </p>
+
+        <p id="visitors"></p> 
+    </div></center>
+</section></div></div></div> 
+    <script src="pro1.js"></script>
+</body>
+</html>
